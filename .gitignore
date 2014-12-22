@@ -4,3 +4,6 @@
 atlassian-*.xml
 .vagrant/*
 build/*
+bin/*
+composer.phar
+vendor/*
